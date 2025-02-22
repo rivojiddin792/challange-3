@@ -1,0 +1,28 @@
+body{
+      background-color: bisque;
+}
+.one{
+    border: 20px solid black;
+    padding: 20px;
+    width: 200px;
+    height: 400px;
+   
+    background-color: greenyellow;
+}
+.two{
+    border: 20px solid black;
+    padding: 20px;
+    width: 150px;
+    height: 250px;
+    margin: 4px 200px 5px 280px ;
+    background-color: yellow;
+}
+.three{
+    border: 20px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 350px;
+    margin: 5px 500px 15px 20px;
+    background-color: brown;
+    
+}
